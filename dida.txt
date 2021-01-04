@@ -7,10 +7,4 @@ dgd
 dgg
 d
 dg
-dg
-dgdgde
-w
-we
-waeadd
-ssf
-dsfduiuu
+public static void main 
